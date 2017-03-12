@@ -1,4 +1,4 @@
-RxVIPER Templates by ki0k1
+#RxVIPER Templates
 
 based on Clean Swift templates http://clean-swift.com/clean-swift-ios-architecture
 
