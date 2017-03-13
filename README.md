@@ -1,15 +1,11 @@
-To learn more about Clean Swift and the VIP cycle, read:
+#RxVIPER Templates
 
-http://clean-swift.com/clean-swift-ios-architecture
+based on Clean Swift templates http://clean-swift.com/clean-swift-ios-architecture
 
-There is a sample app available at:
-
-https://github.com/Clean-Swift/CleanStore
-
-To install the Clean Swift Xcode templates, run:
+To install the RxVIPER Xcode templates, run:
 
 > make install_templates
 
-To uninstall the Clean Swift Xcode templates, run:
+To uninstall the RxVIPER Xcode templates, run:
 
 > make uninstall_templates
