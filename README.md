@@ -21,7 +21,13 @@ To uninstall the RxVIPER Xcode templates, run:
 * **ViewController**  View controller <3. 
 * **Layouter** All manual and like 'SnapKit/LayoutKit' layouts.
 * **Presenter** Add Rx bindings and observables for actions.
+
+### Domain Layer
+* **Interactor** Call workers.
 * **Worker** Make requests to REST/WS/Local database.
+
+### CollectionView/TableView
+* I just make extension for ViewController with **IGListKit** + SectionController + Cells
 
 
 
