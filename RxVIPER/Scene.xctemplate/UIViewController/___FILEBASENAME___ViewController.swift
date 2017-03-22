@@ -20,7 +20,7 @@ class ___FILEBASENAMEASIDENTIFIER___ViewController: UIViewController, ___FILEBAS
   // MARK: - Object lifecycle
   override init() {
     super.init()
-    ___FILEBASENAMEASIDENTIFIER___Configurator.sharedInstance.configure(viewController: self)
+    ___FILEBASENAMEASIDENTIFIER___Configurator().configure(viewController: self)
     self.layouter.addSubviews()
 
     //adapter.collectionView = self.collectionView
